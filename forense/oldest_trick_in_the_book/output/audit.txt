@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Apr 23 13:36:04 2021
+Invocation: foremost poc3.bin 
+Output directory: /home/kevin/github/ctf_walkthrough_compilations/HTB/ctf_cyberapocalypse/forense/oldest_trick_in_the_book/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: poc3.bin
+Start: Fri Apr 23 13:36:04 2021
+Length: 474 KB (485616 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Fri Apr 23 13:36:04 2021
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Fri Apr 23 13:36:04 2021
